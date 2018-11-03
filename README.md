@@ -1,6 +1,6 @@
 # face_extract
 extract faces of an image with 90+ accuracy (profile faces)
-#  Dlib is an Awesome Library for image and video processing using deep learning in 
+#  Dlib is an Awesome Library for image and video processing using deep learning in background
 I have used following libraries:
 1. os
 2. dlib
